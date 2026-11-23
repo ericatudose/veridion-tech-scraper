@@ -17,5 +17,18 @@
   {"nume": "PHP", "unde": "header", "header": "x-powered-by", "caut": "php"},
   {"nume": "Font Awesome", "unde": "html", "caut": "fontawesome"},
   {"nume": "Google Fonts", "unde": "html", "caut": "fonts.googleapis.com"},
-  {"nume": "ASP.NET", "unde": "header", "header": "x-powered-by", "caut": "asp.net"}
+  {"nume": "ASP.NET", "unde": "header", "header": "x-powered-by", "caut": "asp.net"},
+  {"nume": "Wix", "unde": "html", "caut": "static.parastorage.com"},
+  {"nume": "Google reCAPTCHA", "unde": "html", "caut": "google.com/recaptcha"},
+  {"nume": "jsDelivr", "unde": "html", "caut": "cdn.jsdelivr.net"},
+  {"nume": "Sentry", "unde": "html", "caut": "sentry-cdn.com"},
+  {"nume": "Squarespace", "unde": "html", "caut": "squarespace.com"},
+  {"nume": "YouTube", "unde": "html", "caut": "youtube.com/embed"},
+  {"nume": "Facebook Pixel", "unde": "html", "caut": "facebook.com/tr"},
+  {"nume": "Google Hosted Libraries", "unde": "html", "caut": "ajax.googleapis.com"},
+  {"nume": "Google Maps", "unde": "html", "caut": "maps.googleapis.com"},
+  {"nume": "Webflow", "unde": "html", "caut": "website-files.com"},
+  {"nume": "Amazon CloudFront", "unde": "html", "caut": "cloudfront.net"},
+  {"nume": "cdnjs", "unde": "html", "caut": "cdnjs.cloudflare.com"},
+  {"nume": "html5shiv", "unde": "html", "caut": "html5shiv"}
 ]
