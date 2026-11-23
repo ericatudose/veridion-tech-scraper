@@ -1,0 +1,2653 @@
+[
+  {
+    "domeniu": "somalidisablesupport.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "yourfamilylines.com",
+    "tehnologii": [
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...ype=\"text/javascript\" src=\"js/jquery.js\"></script> \t<script type=\"text/javascript\" src=\"js..."
+      }
+    ]
+  },
+  {
+    "domeniu": "szentkristofudvarhaz.hu",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...tps://szentkristofudvarhaz.hu/wp-content/themes/szentkristof1/style.css\" media=\"screen\" />..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...-content/themes/szentkristof1/jquery.js?ver=3.9.40'></script> <script type='text/javascrip..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...t' id='css-css'  href='http://fonts.googleapis.com/css?family=salsa%7cpt+sans&#038;subset=..."
+      }
+    ]
+  },
+  {
+    "domeniu": "disneystore.com",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: .../www.thewaltdisneycompany.com/wp-content/uploads/2019/09/california-transparency-in-supply..."
+      },
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "chavchavadze-m2-41-tbilisi.booked.net",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "trs-energycontrol.de",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "xn--kleoghvidevareservice-qfc.dk",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...-kleoghvidevareservice-qfc.dk/wp-content/themes/astra/assets/css/minified/main.min.css?ver..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...3' media='all' /> <script id=\"jquery-core-js\" src=\"https://xn--kleoghvidevareservice-qfc.d..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://xn--kleoghvidevareservice-qf..."
+      },
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx/1.31.9"
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...' id='uael-social-share-icons-fontawesome-css' href='https://xn--kleoghvidevareservice-qfc..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...f-opensans-css' href='https://fonts.googleapis.com/css?family=open+sans:100,100italic,200,..."
+      }
+    ]
+  },
+  {
+    "domeniu": "gogroupauto.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "231selfstorage.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "globalrn.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "cytofastmed.com",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...=\"https://www.cytofastmed.com/wp-content/uploads/2014/09/download-640x261.png\"/><script ty..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...ytofastmed.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0' id='jquery-core-js'></script..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...med.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js'></sc..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...nk rel='dns-prefetch' href='//fonts.googleapis.com' /> <link rel=\"alternate\" type=\"applica..."
+      }
+    ]
+  },
+  {
+    "domeniu": "5starremoval.weebly.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "gutendorf.ru",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...ext/css\" href=\"//gutendorf.ru/wp-content/cache/wpfc-minified/ffcatmq3/2hqld.css\" media=\"al..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...//gutendorf.ru/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...dorf.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></sc..."
+      },
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx/1.30.7"
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...nk rel='dns-prefetch' href='//fonts.googleapis.com' /> <link rel=\"alternate\" type=\"applica..."
+      }
+    ]
+  },
+  {
+    "domeniu": "katesworldtravel.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "3xd.co.uk",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "gapconstructionwi.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "imgs.co.jp",
+    "tehnologii": [
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...script async src=\"https://www.googletagmanager.com/gtag/js?id=ua-154923112-2\"></script> <s..."
+      },
+      {
+        "tehnologie": "Google Tag Manager",
+        "dovada": "html: ...sync=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentnode.insertbef..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...c=\"/content/dam/imgs/asset/js/jquery.min.js\"></script>        <script type=\"text/javascrip..."
+      }
+    ]
+  },
+  {
+    "domeniu": "clotting-guide.online",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...s://www.clotting-guide.online/wp-content/plugins/button-block/build/view.css?ver=1.2.9' me..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...3' media='all' /> <script id=\"jquery-core-js\" src=\"https://c0.wp.com/c/7.1.5/wp-includes/j..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...min.js\"></script> <script id=\"jquery-migrate-js\" src=\"https://c0.wp.com/c/7.1.5/wp-include..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...nk rel='dns-prefetch' href='//fonts.googleapis.com' /> <link rel='preconnect' href='//i0.w..."
+      }
+    ]
+  },
+  {
+    "domeniu": "38inspect.com",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...nt=\"https://www.38inspect.com/wp-content/uploads/sites/196/2026/01/dandj-1030x687.png\" /> ..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...5' media='all' /> <script id=\"jquery-core-js\" src=\"https://www.38inspect.com/wp-includes/j..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...min.js\"></script> <script id=\"jquery-migrate-js\" src=\"https://www.38inspect.com/wp-include..."
+      },
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...   <link rel='stylesheet' id='fontawesome-css-6-css' href='https://www.38inspect.com/wp-co..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...et'; \t\t\t\t\t\tf.href \t= 'https://fonts.googleapis.com/css?family=lato:300,400,700%7clora&disp..."
+      }
+    ]
+  },
+  {
+    "domeniu": "newbeaverborough.org",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...'https://newbeaverborough.org/wp-content/plugins/modern-events-calendar-lite/assets/packag..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...0' media='all' /> <script id=\"jquery-core-js\" src=\"https://newbeaverborough.org/wp-include..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://newbeaverborough.org/wp-incl..."
+      },
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx"
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...r/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' /> <link rel='st..."
+      }
+    ]
+  },
+  {
+    "domeniu": "largsbaychiropractic.com.au",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "rsthealthcare.com",
+    "tehnologii": [
+      {
+        "tehnologie": "PHP",
+        "dovada": "header x-powered-by: php/7.4.33"
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...el=\"preconnect\" href=\"https://fonts.googleapis.com\">         <link href=\"https://fonts.goo..."
+      }
+    ]
+  },
+  {
+    "domeniu": "dioxoxigenio.com.br",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...f='http://dioxoxigenio.com.br/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...3.34.3\"></script> <script id=\"jquery-core-js\" src=\"http://dioxoxigenio.com.br/wp-includes/..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"http://dioxoxigenio.com.br/wp-includ..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...montserrat-css' href='https://fonts.googleapis.com/css?family=montserrat:100,100italic,200..."
+      }
+    ]
+  },
+  {
+    "domeniu": "doringpoort.com",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...tent=\"https://doringpoort.com/wp-content/uploads/2021/10/img_1326_22-1.jpg\" /> \t<meta prop..."
+      },
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...script async src=\"https://www.googletagmanager.com/gtag/js?id=g-85wl1d39l8\"></script> <scr..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...3' media='all' /> <script id=\"jquery-core-js\" src=\"https://doringpoort.com/wp-includes/js/..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://doringpoort.com/wp-includes/..."
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...r/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' /> <link rel='st..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...le-fonts-1-css' href='https://fonts.googleapis.com/css?family=playfair+display:100,100ital..."
+      }
+    ]
+  },
+  {
+    "domeniu": "fsbwyoming.com",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...\",\"url\":\"https://myfrbank.com/wp-content/uploads/2024/04/new-frb-website-logo-rgb-2c-1.web..."
+      },
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...e_gtagjs-js\" src=\"https://www.googletagmanager.com/gtag/js?id=gt-mb6dzbc8\" async></script>..."
+      },
+      {
+        "tehnologie": "Google Tag Manager",
+        "dovada": "html: ...sync=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentnode.insertbef..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...7' media='all' /> <script id=\"jquery-core-js\" src=\"https://myfrbank.com/wp-includes/js/jqu..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://myfrbank.com/wp-includes/js/..."
+      },
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...nk rel='stylesheet' id='ditty-fontawesome-css' href='https://myfrbank.com/wp-content/plugi..."
+      }
+    ]
+  },
+  {
+    "domeniu": "msc-manching.de",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...href='https://msc-manching.de/wp-content/plugins/contact-form-7/includes/css/styles.css?ve..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...sc-manching.de/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...hing.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></sc..."
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...t/themes/sparkling/assets/css/fontawesome-all.min.css?ver=5.1.1.' type='text/css' media='a..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...nk rel='dns-prefetch' href='//fonts.googleapis.com' /> <link rel=\"alternate\" type=\"applica..."
+      }
+    ]
+  },
+  {
+    "domeniu": "sgsextremaratio.it",
+    "tehnologii": [
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx/1.18.0 (ubuntu)"
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ... awesome pro 6.0.0-alpha3 by @fontawesome - https://fontawesome.com  * license - https://f..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ... \"utf-8\";@import url(\"https://fonts.googleapis.com/css2?family=oswald:wght@300;400;500;600..."
+      }
+    ]
+  },
+  {
+    "domeniu": "coastwidemechanicalcentralcoast.com.au",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...mechanicalcentralcoast.com.au/wp-content/uploads/2023/08/coastwide-mechanical-central-coas..."
+      },
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...script\" data-src=\"https://www.googletagmanager.com/gtag/js?id=g-2508373e7x\"></script> <scr..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...pe=\"litespeed/javascript\">let jqueryparams=[],jquery=function(r){return jqueryparams=[...j..."
+      },
+      {
+        "tehnologie": "PHP",
+        "dovada": "header x-powered-by: php/8.4.28"
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...font-display:swap;font-family:fontawesome;font-style:normal;font-weight:400;font-display:s..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...nk rel='dns-prefetch' href='//fonts.googleapis.com' /><link rel=\"alternate\" type=\"applicat..."
+      }
+    ]
+  },
+  {
+    "domeniu": "amourfinder.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "lojatatical.com.br",
+    "tehnologii": [
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...script async src=\"https://www.googletagmanager.com/gtag/js?id=g-g6kpzwxbzv\"></script> <scr..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ..._br/rokanthemes_rokanbase/css/jquery.fancybox.css\" /> <link  rel=\"stylesheet\" type=\"text/c..."
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...atical/pt_br/magezon_core/css/fontawesome5.css\" /> <link  rel=\"stylesheet\" type=\"text/css\"..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...s\"  media=\"all\" href=\"https://fonts.googleapis.com/css?family=source+sans+pro:400\" /> <scr..."
+      }
+    ]
+  },
+  {
+    "domeniu": "jobresourcecentre.com",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...https://jobresourcecentre.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ve..."
+      },
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...script async src=\"https://www.googletagmanager.com/gtag/js?id=g-cb7fd4r1bf\"></script> \t<sc..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...esheet' id='perfect-scrollbar-jquery-css' href='https://jobresourcecentre.com/wp-content/p..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://jobresourcecentre.com/wp-inc..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...nk rel='dns-prefetch' href='//fonts.googleapis.com' /> <link rel=\"alternate\" type=\"applica..."
+      }
+    ]
+  },
+  {
+    "domeniu": "253media.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...script async src=\"https://www.googletagmanager.com/gtag/js?id=aw-664401435\"></script> <scr..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=632c860a24501a288ed72e24..."
+      },
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...onymous\"/><link href=\"https://fonts.googleapis.com\" rel=\"preconnect\"/><link href=\"https://..."
+      }
+    ]
+  },
+  {
+    "domeniu": "velvety.eu",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...s://www.velvety-cosmetics.com/wp-content/uploads/2025/05/img_9095-kopie-scaled.jpeg\" /> \t<..."
+      },
+      {
+        "tehnologie": "Google Tag Manager",
+        "dovada": "html: ...sync=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentnode.insertbef..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...520000\"></script> <script id=\"jquery-core-js\" src=\"https://www.velvety-cosmetics.com/wp-in..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://www.velvety-cosmetics.com/wp..."
+      }
+    ]
+  },
+  {
+    "domeniu": "doortodoororganics.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "kentpropertyrenovations.co.uk",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...kentpropertyrenovations.co.uk/wp-content/uploads/2021/03/default-retine-3.png\" /> <meta na..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...t\"></script> <!-- <script id=\"jquery-core-js\" src=\"https://kentpropertyrenovations.co.uk/w..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: .../script> --> <!-- <script id=\"jquery-migrate-js\" src=\"https://kentpropertyrenovations.co.u..."
+      }
+    ]
+  },
+  {
+    "domeniu": "fisherinvestments.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "rionecontrastanga.net",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...https://rionecontrastanga.net/wp-content/uploads/2018/08/favicon.png\">         <link rel=\"..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...ntrastanga.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1\" id=\"jquery-core-js\"></script..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...nga.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1\" id=\"jquery-migrate-js\"></sc..."
+      },
+      {
+        "tehnologie": "PHP",
+        "dovada": "header x-powered-by: php/7.4.34"
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...con.png\"/>     \t<link href='//fonts.googleapis.com/css?family=raleway:100,200,300,400,500,..."
+      }
+    ]
+  },
+  {
+    "domeniu": "stwannas.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "empresasori.com",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...t src=\"http://empresasori.com/wp-content/themes/woodmart/js/libs/ie11customproperties.min...."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...p.com/c/6.3.15/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script> <script ..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: .../6.3.15/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script> <scr..."
+      },
+      {
+        "tehnologie": "PHP",
+        "dovada": "header x-powered-by: php/8.0.30"
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...nk rel='dns-prefetch' href='//fonts.googleapis.com' /> <link rel='dns-prefetch' href='//i0..."
+      }
+    ]
+  },
+  {
+    "domeniu": "familybroker.cz",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "genesisny.net",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "5w.design",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "huberautomotive.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "marien-apotheke-grefrath-app.de",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "centreconsiliereavort.ro",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...ps://centreconsiliereavort.ro/wp-content/themes/twentytwelve/fonts/font-open-sans.css?ver=..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...1' media='all' /> <script id=\"jquery-core-js\" src=\"https://centreconsiliereavort.ro/wp-inc..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://centreconsiliereavort.ro/wp-..."
+      },
+      {
+        "tehnologie": "PHP",
+        "dovada": "header x-powered-by: php/7.4.33"
+      }
+    ]
+  },
+  {
+    "domeniu": "infoaboutnetwork.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "passwordstore.it",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...ent=\"https://passwordstore.it/wp-content/uploads/2023/07/password-4.jpg\"/> <meta name=\"twi..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...d=function(){if(typeof window.jquery !=\"undefined\"){if(jquery.fn.fitvids){jquery(e).parent..."
+      },
+      {
+        "tehnologie": "WP Fastest Cache",
+        "dovada": "html: ...lid #e6e6e6;}</style> <script data-wpfc-render=\"false\">var wpfcll={s:[],osl:0,scroll:false..."
+      },
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx"
+      }
+    ]
+  },
+  {
+    "domeniu": "avocatalinamanciu.ro",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...\"https://avocatalinamanciu.ro/wp-content/uploads/elementor/thumbs/avocatalinamanciu.ro_-qi..."
+      },
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...e_gtagjs-js\" src=\"https://www.googletagmanager.com/gtag/js?id=ua-273560545-1\" async></scri..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...3.15.1\"></script> <script id=\"jquery-core-js\" src=\"https://avocatalinamanciu.ro/wp-include..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://avocatalinamanciu.ro/wp-incl..."
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...t/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.15.1' media='all' /> <link..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...le-fonts-1-css' href='https://fonts.googleapis.com/css?family=mulish:100,100italic,200,200..."
+      }
+    ]
+  },
+  {
+    "domeniu": "abcdpinturas.com.br",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "dssfla.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "weducars.co.za",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...t=\"https://weducars.co.za/css/wp-content/uploads/2025/05/home_detailing3_offer4.jpg\" /> \t<..."
+      },
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...e_gtagjs-js\" src=\"https://www.googletagmanager.com/gtag/js?id=g-vc52g0gyty\" async></script..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...5' media='all' /> <script id=\"jquery-core-js\" src=\"https://weducars.co.za/css/wp-includes/..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://weducars.co.za/css/wp-includ..."
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...-content/themes/betheme/fonts/fontawesome/fontawesome.css?ver=28.0.6' media='all' /> <link..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...nk rel='dns-prefetch' href='//fonts.googleapis.com' /> <link rel=\"alternate\" type=\"applica..."
+      }
+    ]
+  },
+  {
+    "domeniu": "4stonebuildings.com",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...=\"https://4stonebuildings.com/wp-content/uploads/2023/11/generalviews-169-scaled.jpg\" /> \t..."
+      },
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...--> \t\t\t\t\t\t\t<script src=\"//www.googletagmanager.com/gtag/js?id=g-8x30mhd2pv\"  data-cfasync=..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ... ]]> */ </script> <script id=\"jquery-core-js\" data-cfasync=\"false\" src=\"https://4stonebuil..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://4stonebuildings.com/wp-inclu..."
+      },
+      {
+        "tehnologie": "ShiftNav",
+        "dovada": "html: .../> <link rel='stylesheet' id='shiftnav-css' href='https://4stonebuildings.com/wp-content/p..."
+      },
+      {
+        "tehnologie": "Complianz",
+        "dovada": "html: .../> <link rel='stylesheet' id='cmplz-general-css' href='https://4stonebuildings.com/wp-cont..."
+      },
+      {
+        "tehnologie": "MonsterInsights",
+        "dovada": "html: ... data-wp-strategy=\"async\" id=\"monsterinsights-frontend-script-js\" src=\"https://4stonebuild..."
+      },
+      {
+        "tehnologie": "WP Fastest Cache",
+        "dovada": "html: ... <script data-cfasync=\"false\" data-wpfc-render=\"false\" type=\"text/javascript\" id='monsteri..."
+      },
+      {
+        "tehnologie": "Stop User Enumeration",
+        "dovada": "html: ...wp-strategy=\"defer\" defer id=\"stop-user-enumeration-js\" src=\"https://4stonebuildings.com/w..."
+      },
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...ugins/shiftnav-pro/assets/css/fontawesome/css/font-awesome.min.css?ver=1.7.2' media='all' ..."
+      }
+    ]
+  },
+  {
+    "domeniu": "maniaupiekszania.pl",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...:\"https://maniaupiekszania.pl/wp-content/uploads/2023/07/cropped-pat_nowy_bez-tla.png\",\"co..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...com/\" crossorigin><script id=\"jquery-js\" src=\"https://maniaupiekszania.pl/wp-content/plugi..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=7.1.5\"></script> <script id=\"jquery-migrate-js\" src=\"https://maniaupiekszania.pl/wp-conte..."
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...t/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.15.1' media='all' /> <link..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...le-fonts-1-css' href='https://fonts.googleapis.com/css?family=poppins:100,100italic,200,20..."
+      }
+    ]
+  },
+  {
+    "domeniu": "sprucemeadowsmd.com",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...='https://sprucemeadowsmd.com/wp-content/plugins/accessibility-checker/build/css/sronlyfor..."
+      },
+      {
+        "tehnologie": "PHP",
+        "dovada": "header x-powered-by: php/8.3.37"
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...nts-gfonts-css' href='https://fonts.googleapis.com/css?family=khand:700,500,regular&#038;d..."
+      }
+    ]
+  },
+  {
+    "domeniu": "natedea.co.uk",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "loizillon.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...script async src=\"https://www.googletagmanager.com/gtag/js?id=g-hcj5mxkwj2\"></script>     ..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...el=\"stylesheet\" href=\"/assets/jquery_toast/jquery.toast-45c7a0d117e54c9e9a29b32ba06784a8.c..."
+      }
+    ]
+  },
+  {
+    "domeniu": "haus-muehlenfeld-pommerby.de",
+    "tehnologii": [
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...pe=\"text/javascript\" id='d-js-jquery'         src=\"https://static-cdn.website-editor.net/l..."
+      },
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx"
+      }
+    ]
+  },
+  {
+    "domeniu": "arenaskolor.se",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...ntent=\"https://arenaskolor.se/wp-content/uploads/2026/02/stockbild-workstep-matchning-043...."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...arenaskolor.se/wp-includes/js/jquery/jquery.min.js?ver=3.7.1\" id=\"jquery-core-js\"></script..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...olor.se/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1\" id=\"jquery-migrate-js\"></sc..."
+      },
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx"
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...gf-figtree-css' href='https://fonts.googleapis.com/css?family=figtree:100,100italic,200,20..."
+      }
+    ]
+  },
+  {
+    "domeniu": "boken.ch",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...age/\",\"url\":\"https://boken.ch/wp-content/uploads/2020/07/boken.png\",\"contenturl\":\"https://..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...tps://boken.ch/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...oken.ch/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></sc..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...nk rel='dns-prefetch' href='//fonts.googleapis.com' /> <link rel=\"alternate\" type=\"applica..."
+      }
+    ]
+  },
+  {
+    "domeniu": "restwellstreetmedicalcentre.com.au",
+    "tehnologii": [
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...script async src=\"https://www.googletagmanager.com/gtag/js?id=g-fxn3lyrq8y\"></script> <scr..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ... footer-->    <script src=\"js/jquery.min.js\"></script>   <script src=\"js/jquery.easing.min..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...type=\"text/css\" href=\"https://fonts.googleapis.com/css?family=open+sans|raleway|candal\">  ..."
+      }
+    ]
+  },
+  {
+    "domeniu": "den-a-sha.co.jp",
+    "tehnologii": [
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx"
+      }
+    ]
+  },
+  {
+    "domeniu": "365outsource.com",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...\"https://www.365outsource.com/wp-content/uploads/2026/07/enhanced_office_team_hd-1024x683...."
+      },
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...script async src=\"https://www.googletagmanager.com/gtag/js?id=ua-8749295-4\"></script> <scr..."
+      },
+      {
+        "tehnologie": "Google Tag Manager",
+        "dovada": "html: ...sync=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentnode.insertbef..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...3' media='all' /> <script id=\"jquery-core-js\" src=\"https://www.365outsource.com/wp-include..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://www.365outsource.com/wp-incl..."
+      },
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      },
+      {
+        "tehnologie": "PHP",
+        "dovada": "header x-powered-by: php/8.2.36"
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...r/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' /> <link rel='st..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...nk rel='dns-prefetch' href='//fonts.googleapis.com' />   <link rel=\"alternate\" type=\"appli..."
+      }
+    ]
+  },
+  {
+    "domeniu": "aida-cruises.at",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "lets.gr",
+    "tehnologii": [
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx"
+      }
+    ]
+  },
+  {
+    "domeniu": "skywayrestaurants.net",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "2020wealthadvisory.com",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...ttps://2020wealthadvisory.com/wp-content/uploads/2022/03/2020wealth-intropost-leanne-fb.jp..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...3' media='all' /> <script id=\"jquery-core-js\" src=\"https://2020wealthadvisory.com/wp-inclu..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://2020wealthadvisory.com/wp-in..."
+      },
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...r/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' /> <link rel='st..."
+      }
+    ]
+  },
+  {
+    "domeniu": "hnafirm.com",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...src=\"https://gkkediaandco.com/wp-content/themes/gkkedia/images/paytm-icon.png\" alt=\"\"></a>..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...dnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.js\"></script>         <script src=\"https..."
+      },
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx/1.18.0 (ubuntu)"
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...     <script src=\"https://kit.fontawesome.com/ee262edb4c.js\" crossorigin=\"anonymous\"></scr..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...el=\"preconnect\" href=\"https://fonts.googleapis.com\"> <link rel=\"preconnect\" href=\"https://..."
+      }
+    ]
+  },
+  {
+    "domeniu": "aaice.net",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...-css' href='https://aaice.net/wp-content/plugins/gs-logo-slider/assets/libs/swiper-js/swip..."
+      },
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...--> \t\t\t\t\t\t\t<script src=\"//www.googletagmanager.com/gtag/js?id=g-gvq0pxcrtk\"  data-cfasync=..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...ype=\"text/javascript\"> \t\t\tlet jqueryparams=[],jquery=function(r){return jqueryparams=[...j..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://aaice.net/wp-includes/js/jqu..."
+      },
+      {
+        "tehnologie": "CoBlocks",
+        "dovada": "html: ...=3.9.2\"></script> <script id=\"coblocks-animation-js\" src=\"https://aaice.net/wp-content/plu..."
+      },
+      {
+        "tehnologie": "MonsterInsights",
+        "dovada": "html: ... uses the google analytics by monsterinsights plugin v11.3.0 - using analytics tracking - ..."
+      },
+      {
+        "tehnologie": "WP Fastest Cache",
+        "dovada": "html: ...pxcrtk\"  data-cfasync=\"false\" data-wpfc-render=\"false\" type=\"text/javascript\" async></scri..."
+      },
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...nk rel='dns-prefetch' href='//fonts.googleapis.com' /> <link rel=\"alternate\" type=\"applica..."
+      }
+    ]
+  },
+  {
+    "domeniu": "ecolab.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "mehmetefendimacedonia.com",
+    "tehnologii": [
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js\"></script> <script src=\"/scripts/..."
+      }
+    ]
+  },
+  {
+    "domeniu": "2ldm.com",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...311d.p3cdn1.secureserver.net\\/wp-content\\/uploads\\/2024\\/03\\/new-logo-vector.png?time=1710..."
+      },
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...--> \t\t\t\t\t\t\t<script src=\"//www.googletagmanager.com/gtag/js?id=g-8472x4gstk\"  data-cfasync=..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...6' media='all' /> <script id=\"jquery-core-js\" src=\"https://2ldm.com/wp-includes/js/jquery/..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://2ldm.com/wp-includes/js/jque..."
+      },
+      {
+        "tehnologie": "CoBlocks",
+        "dovada": "html: ...14.5.1\"></script> <script id=\"coblocks-animation-js\" src=\"https://2ldm.com/wp-content/plug..."
+      },
+      {
+        "tehnologie": "MonsterInsights",
+        "dovada": "html: ... uses the google analytics by monsterinsights plugin v11.3.0 - using analytics tracking - ..."
+      },
+      {
+        "tehnologie": "WP Fastest Cache",
+        "dovada": "html: ...x4gstk\"  data-cfasync=\"false\" data-wpfc-render=\"false\" async></script> \t\t\t<script data-cfa..."
+      },
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...-content/themes/dt-the7/fonts/fontawesome/css/all.min.css?ver=14.5.1' media='all' /> <link..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...nk rel='dns-prefetch' href='//fonts.googleapis.com' /> \t\t<!-- this site uses the google an..."
+      }
+    ]
+  },
+  {
+    "domeniu": "westchesterpointechiro.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...script async src=\"https://www.googletagmanager.com/gtag/js?id=ua-128392001-1\"></script> <s..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...pt\" src=\"/nyk/gen3/webroot/js/jquery.min.js\"></script> \t<script type=\"text/javascript\" src..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...pt\" src=\"/nyk/gen3/webroot/js/jquery-migrate.min.js\"></script> \t<script type=\"text/javascr..."
+      }
+    ]
+  },
+  {
+    "domeniu": "cei-expertises.fr",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...https://www.cei-expertises.fr/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...ype=\"text/javascript\"> \t\t\tlet jqueryparams=[],jquery=function(r){return jqueryparams=[...j..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...ises.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1\" id=\"jquery-migrate-js\"></sc..."
+      },
+      {
+        "tehnologie": "PHP",
+        "dovada": "header x-powered-by: php/8.2.36"
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...ormal} @font-face{font-family:fontawesome;font-style:normal;font-weight:400;font-display:b..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...ine-css\">/* original: https://fonts.googleapis.com/css?family=open+sans:300italic,400itali..."
+      }
+    ]
+  },
+  {
+    "domeniu": "seringa-safaris.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "1planettechnologies.weebly.com",
+    "tehnologii": [
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js'></script>  <script type=\"text/ja..."
+      },
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "soziale-dreigliederung.de",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "premierhomeremodeling.net",
+    "tehnologii": [
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx"
+      }
+    ]
+  },
+  {
+    "domeniu": "bas-ingenieria.cl",
+    "tehnologii": [
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx"
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...>   <link href=\"assets/vendor/fontawesome-free/css/all.min.css\" rel=\"stylesheet\">   <link ..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...el=\"preconnect\" href=\"https://fonts.googleapis.com\">   <link rel=\"preconnect\" href=\"https:..."
+      }
+    ]
+  },
+  {
+    "domeniu": "produkttheater.de",
+    "tehnologii": [
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...script async src=\"https://www.googletagmanager.com/gtag/js?id=ua-132401232-2\"></script>   ..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...ded\", function(){             jquery(\"#wr360-viewer_thumb\").rotator({                 lice..."
+      },
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx"
+      }
+    ]
+  },
+  {
+    "domeniu": "unnames.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Shopify",
+        "dovada": "html: ...y.shopjscdnbaseurl = \"https://cdn.shopify.com/shopifycloud/shop-js\"; shopify.signinwithsho..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...function(content) {       var jquery = null;        if (window.jquery) {         jquery = ..."
+      },
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "handycars.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...script async src=\"https://www.googletagmanager.com/gtag/js?id=g-mncgn50bmw\"></script>     ..."
+      },
+      {
+        "tehnologie": "Google Tag Manager",
+        "dovada": "html: ...                 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;             f.par..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: .../themes/dv-framework/media/js/jquery.min.js?v=1.537.43\" as=\"script\">     <link rel=\"preloa..."
+      },
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx/1.30.7"
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...themes/dv-framework/media/css/fontawesome/webfonts/fa-light-300.subset.woff2\" as=\"font\" ty..."
+      }
+    ]
+  },
+  {
+    "domeniu": "antikebau.de",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "3strandschurch.org",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "alabamabuildingcontractor.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "resourceservicesolutions.com",
+    "tehnologii": [
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...xt/javascript\" src=\"component/jquery/jquery-3.2.1.min.js\"></script> <script type=\"text/jav..."
+      }
+    ]
+  },
+  {
+    "domeniu": "skywardspeech.com.au",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "sevecoitalia.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Google Tag Manager",
+        "dovada": "html: ...                 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentnode.inse..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...</script> <script src=\"script/jquery-2.1.1.min.js\" type=\"text/javascript\"></script> <scrip..."
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...     <script src=\"https://kit.fontawesome.com/9b5273fd7b.js\"></script>           <link rel..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...ic.com\" /><link href=\"https://fonts.googleapis.com/css2?family=teko:wght@300;400;700&amp;d..."
+      },
+      {
+        "tehnologie": "ASP.NET",
+        "dovada": "header x-powered-by: asp.net"
+      }
+    ]
+  },
+  {
+    "domeniu": "nielsbirk.dk",
+    "tehnologii": [
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ... rel=\"stylesheet\" href=\"//use.fontawesome.com/releases/v5.0.6/css/all.css\">     <style typ..."
+      }
+    ]
+  },
+  {
+    "domeniu": "branson-connection.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "phucankhanggroup.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...script async src=\"https://www.googletagmanager.com/gtag/js?id=g-gyd4t4ceq4\"></script>     ..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...\"stylesheet\" href=\"styles/lib/jquery.fancybox.css?v=1\" /><link href=\"styles/banner.css\" re..."
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...et\" href=\"assets/font-awesome/fontawesome-free-6.0.0-web/css/all.css\" /><link href=\"admin/..."
+      }
+    ]
+  },
+  {
+    "domeniu": "roccofortehotels.cn",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "europeaninns.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "massageforworldpeace.com",
+    "tehnologii": [
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...            var $emotionimg = jquery('#emotion-header-img');             if ($emotionimg.l..."
+      }
+    ]
+  },
+  {
+    "domeniu": "cultivateventures.co.nz",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "amaronbattery.in",
+    "tehnologii": [
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...ype=\"text/javascript\" src=\"js/jquery-1.2.6.min.js\"></script><script type=\"text/javascript\"..."
+      },
+      {
+        "tehnologie": "PHP",
+        "dovada": "header x-powered-by: php/7.2.34"
+      }
+    ]
+  },
+  {
+    "domeniu": "radxmobile.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "2-com.net",
+    "tehnologii": [
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...script async src=\"https://www.googletagmanager.com/gtag/js?id=g-ty0xg5mcqr\"></script>   <s..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...el=\"preconnect\" href=\"https://fonts.googleapis.com\">   <link rel=\"preconnect\" href=\"https:..."
+      }
+    ]
+  },
+  {
+    "domeniu": "3bsexcavating.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "weissbauchpapageien.de",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "959marine.com",
+    "tehnologii": [
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...tps://cdn11.editmysite.com/js/jquery-1.8.3.min.js'></script>  <script type=\"text/javascrip..."
+      },
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "hansis-knusperhendl-foodtruck.eatbu.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Google Tag Manager",
+        "dovada": "html: ...ue;j.src= \t\t\t\t\t\t\t'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentnode.insertbef..."
+      }
+    ]
+  },
+  {
+    "domeniu": "broganlmt.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "juanmunozhomesmart.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "buchhaltungsservice-koenig.de",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...buchhaltungsservice-koenig.de/wp-content/uploads/0be23b6f88/dist/1677924302.js?ver=cfdeb40..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...s' media='all' /> <script id=\"jquery-core-js\" src=\"https://buchhaltungsservice-koenig.de/w..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://buchhaltungsservice-koenig.d..."
+      },
+      {
+        "tehnologie": "PHP",
+        "dovada": "header x-powered-by: php/8.4.28"
+      }
+    ]
+  },
+  {
+    "domeniu": "solvos.nl",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "261welfarefund.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "disinfestazioniepiscine.it",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...ww.disinfestazioniepiscine.it/wp-content/plugins/contact-form-7/includes/css/styles.css?ve..."
+      },
+      {
+        "tehnologie": "Google Tag Manager",
+        "dovada": "html: ...sync=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentnode.insertbef..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...=6.1.5\"></script> <script id=\"jquery-core-js\" src=\"https://www.disinfestazioniepiscine.it/..."
+      },
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx"
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...ont-style:normal;font-family:\"fontawesome\";font-weight:900;src:url(\"https://www.disinfesta..."
+      }
+    ]
+  },
+  {
+    "domeniu": "lscms.org",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "3dwealthadvisory.com",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...'https://3dwealthadvisory.com/wp-content/mu-plugins/vendor/wpex/godaddy-launch/includes/de..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...ype=\"text/javascript\"> \t\t\tlet jqueryparams=[],jquery=function(r){return jqueryparams=[...j..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://3dwealthadvisory.com/wp-incl..."
+      },
+      {
+        "tehnologie": "Koko Analytics",
+        "dovada": "html: ...,r]};</script><script> window.koko_analytics = {\"url\":\"https:\\/\\/3dwealthadvisory.com\\/\",\"..."
+      },
+      {
+        "tehnologie": "CoBlocks",
+        "dovada": "html: ...;})(); </script>  <script id=\"coblocks-animation-js\" src=\"https://3dwealthadvisory.com/wp-..."
+      },
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...lesheet' id='transitionslider-fontawesome-css-css' href='https://use.fontawesome.com/relea..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...ine-css\">/* original: https://fonts.googleapis.com/css?family=open+sans:300italic,400itali..."
+      }
+    ]
+  },
+  {
+    "domeniu": "kande-hoikuen.ed.jp",
+    "tehnologii": [
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js\"></script>  <script src=\"js/jque..."
+      },
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx"
+      }
+    ]
+  },
+  {
+    "domeniu": "orifoodsco.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "deerfieldbeachautomall.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "insieme.stanford.edu",
+    "tehnologii": [
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...script async src=\"https://www.googletagmanager.com/gtag/js?id=g-986r8te788\"></script> <scr..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...ript src=\"/core/assets/vendor/jquery/jquery.min.js?v=4.0.0\"></script> <script src=\"/sites/..."
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...media=\"all\" href=\"https://use.fontawesome.com/releases/v5.13.1/css/v4-shims.css\" /> <link ..."
+      }
+    ]
+  },
+  {
+    "domeniu": "layer7innovations.ca",
+    "tehnologii": [
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...dnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js\"       integrity=\"sha512-v2cj7uay..."
+      },
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "makpharma-eg.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "ejc-courtage-assurances.fr",
+    "tehnologii": [
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...ype=\"text/javascript\" src=\"js/jquery.min.js\"></script>     <script type=\"text/javascript\" ..."
+      },
+      {
+        "tehnologie": "PHP",
+        "dovada": "header x-powered-by: php/8.1"
+      }
+    ]
+  },
+  {
+    "domeniu": "ferrateoxidant.com",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...f='https://ferrateoxidant.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ve..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...ateoxidant.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1\" id=\"jquery-core-js\"></script..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...ant.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1\" id=\"jquery-migrate-js\"></sc..."
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...r/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' /> <link rel='st..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...le-fonts-1-css' href='https://fonts.googleapis.com/css?family=roboto%3a100%2c100italic%2c2..."
+      }
+    ]
+  },
+  {
+    "domeniu": "oakwell.vet",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ... content=\"https://oakwell.vet/wp-content/uploads/2022/07/oakwell_facebook.png\" /> \t<meta p..."
+      },
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...script async src=\"https://www.googletagmanager.com/gtag/js?id=g-8g2qfyg3f6\"></script> <scr..."
+      },
+      {
+        "tehnologie": "Google Tag Manager",
+        "dovada": "html: ...sync=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentnode.insertbef..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: .../> <link rel='stylesheet' id='jquery-magnificpopup-css' href='https://oakwell.vet/wp-conte..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://oakwell.vet/wp-includes/js/j..."
+      },
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx-rc"
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...ntent/plugins/bb-plugin/fonts/fontawesome/7.2.0/webfonts/fa-solid-900.woff2\" as=\"font\" typ..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...nk rel='dns-prefetch' href='//fonts.googleapis.com' /> <link href='https://fonts.gstatic.c..."
+      }
+    ]
+  },
+  {
+    "domeniu": "mysterion.hr",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...content=\"https://mysterion.hr/wp-content/uploads/2018/01/myst-ico-1.png\" /> <meta property..."
+      },
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...script async src=\"https://www.googletagmanager.com/gtag/js?id=ua-78921934-1\"></script> <sc..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...e-css */ </style> <script id=\"jquery-core-js\" src=\"https://mysterion.hr/wp-includes/js/jqu..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://mysterion.hr/wp-includes/js/..."
+      },
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...nk rel='dns-prefetch' href='//fonts.googleapis.com' /> <link rel=\"alternate\" type=\"applica..."
+      }
+    ]
+  },
+  {
+    "domeniu": "howellmotors.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "lorenz-baumarkt.de",
+    "tehnologii": [
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...t\"> var checker = 0; function jqueryloaded() { clearinterval(checker); jquery(document).re..."
+      }
+    ]
+  },
+  {
+    "domeniu": "eclairage-solaire-occitanie.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "cmc01village.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "cmresolutions.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "dorpsbelangen.nu",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...'https://www.dorpsbelangen.nu/wp-content/plugins/contact-form-7/includes/css/styles.css?ve..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...679885\"></script> <script id=\"jquery-core-js\" src=\"https://www.dorpsbelangen.nu/wp-include..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://www.dorpsbelangen.nu/wp-incl..."
+      },
+      {
+        "tehnologie": "PHP",
+        "dovada": "header x-powered-by: php/8.5.13"
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...nk rel='dns-prefetch' href='//fonts.googleapis.com' /> <link rel=\"alternate\" type=\"applica..."
+      }
+    ]
+  },
+  {
+    "domeniu": "evelynanders.com",
+    "tehnologii": [
+      {
+        "tehnologie": "PHP",
+        "dovada": "header x-powered-by: php/7.4.33"
+      }
+    ]
+  },
+  {
+    "domeniu": "domekvefaru.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "sdmdjentertainment.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "ideenhunger.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...ync data-cmp-src=\"https://www.googletagmanager.com/gtag/js?id=aw-970173388\"></script> <scr..."
+      },
+      {
+        "tehnologie": "Google Tag Manager",
+        "dovada": "html: ...sync=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentnode.insertbef..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=66795ad5f3983f33c484692b..."
+      },
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "jenniferbacksteininteriors.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "elcolegiocongresosyrestaurante.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx"
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...t:normal normal normal 14px/1 fontawesome;font-style:normal;font-variant-ligatures:normal;..."
+      }
+    ]
+  },
+  {
+    "domeniu": "northshoremacnut.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "stoperbis.pl",
+    "tehnologii": [
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...ss\" /><script src=\"javascript/jquery.js\"></script> <script src=\"javascript/skrypty.php.htm..."
+      }
+    ]
+  },
+  {
+    "domeniu": "gitesducharmois.fr",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "allegrocreditbeta.com",
+    "tehnologii": [
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...vascript' defer  src='/syc/js/jquery-3.5.1.min.js?v=1693306395114'></script><script type='..."
+      }
+    ]
+  },
+  {
+    "domeniu": "hoffmaninstitute.co.uk",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "a3sec.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...gnore\" async src=\"https://www.googletagmanager.com/gtag/js?id=g-bggeq32b1j\"></script>  <!-..."
+      },
+      {
+        "tehnologie": "Google Tag Manager",
+        "dovada": "html: ...=true;j.src=     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentnode.insertbef..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...    <script src=\"/hs/hsstatic/jquery-libs/static-1.4/jquery/jquery-1.11.2.js\"></script> <s..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...static/jquery-libs/static-1.4/jquery-migrate/jquery-migrate-1.2.1.js\"></script> <script>hs..."
+      },
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "concrete-fitness.edan.io",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "nicholsonchiro.com",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...f=\"https://nicholsonchiro.com/wp-content/themes/mts_schema/images/favicon.png\" type=\"image..."
+      },
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...script async src=\"https://www.googletagmanager.com/gtag/js?id=g-cs7b4q6t4l\"></script>     ..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...ing\"],\"allow\":[],\"lib\":[\"code.jquery.com\",\"cdnjs.cloudflare.com\",\"unpkg.com\",\"jsdelivr.net..."
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...om\",\"ajax.aspnetcdn.com\",\"use.fontawesome.com\",\"kit.fontawesome.com\"],\"map\":{\"google-analy..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...al\",\"vimeo.com\":\"functional\",\"fonts.googleapis.com\":\"functional\",\"fonts.gstatic.com\":\"func..."
+      }
+    ]
+  },
+  {
+    "domeniu": "la-residenza-del-principe-rome-it.booked.net",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "jonesbuickgmc.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...script async src=\"https://www.googletagmanager.com/gtag/js?id=g-dvn36cskwf\"></script> <scr..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...dnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequ..."
+      },
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "xn--jobvrkstedet-9cb.nu",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...tps://xn--jobvrkstedet-9cb.nu/wp-content/themes/zerif-lite/js/html5.js\"></script> <link re..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...e> <link rel='stylesheet' id='jquery.bxslider-css'  href='//xn--jobvrkstedet-9cb.nu/wp-con..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...-9cb.nu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script> <link rel='https:..."
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...nk rel='stylesheet' id='zerif_fontawesome-css'  href='https://xn--jobvrkstedet-9cb.nu/wp-c..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ... id='zerif_font-css'  href='//fonts.googleapis.com/css?family=lato%3a300%2c400%2c700%2c400..."
+      }
+    ]
+  },
+  {
+    "domeniu": "appelpsychotherapy.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "brucebournesold.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "pcb-cpb.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "chiantifiorentino.it",
+    "tehnologii": [
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...script async src=\"https://www.googletagmanager.com/gtag/js?id=ua -42007114-1\"></script> <s..."
+      },
+      {
+        "tehnologie": "Google Tag Manager",
+        "dovada": "html: ...sync=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentnode.insertbef..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...\t<script src=\"/web/components/jquery-3.7/jquery-3.7.0.min.js\"></script> \t<script src=\"/web..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...el=\"stylesheet\" href=\"https://fonts.googleapis.com/css?family=open+sans:400,600&subset=lat..."
+      },
+      {
+        "tehnologie": "ASP.NET",
+        "dovada": "header x-powered-by: asp.net"
+      }
+    ]
+  },
+  {
+    "domeniu": "11thhourracing.org",
+    "tehnologii": [
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6a3b757657e5acdf277477fa..."
+      },
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "miratrade.com.tr",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "freo.com.au",
+    "tehnologii": [
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...    </style> \t<script src=\"js/jquery.js\"></script> \t<script src=\"js/twitter.js\"></script> ..."
+      }
+    ]
+  },
+  {
+    "domeniu": "fluxar.com.ar",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...ef='https://www.fluxar.com.ar/wp-content/plugins/all-in-one-seo-pack/dist/lite/assets/css/..."
+      },
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...script async src=\"https://www.googletagmanager.com/gtag/js?id=g-56q29fk9b1\"> </script> <sc..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: .../> <link rel='stylesheet' id='jquery-ui-css' href='https://www.fluxar.com.ar/wp-content/pl..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ....com.ar/wp-includes/js/jquery/jquery-migrate.js?ver=3.4.1\" id=\"jquery-migrate-js\"></script..."
+      },
+      {
+        "tehnologie": "MonsterInsights",
+        "dovada": "html: ... uses the google analytics by monsterinsights plugin v9.10.0 - using analytics tracking - ..."
+      },
+      {
+        "tehnologie": "WP Fastest Cache",
+        "dovada": "html: ...4z3qkd\"  data-cfasync=\"false\" data-wpfc-render=\"false\" type=\"text/javascript\" async></scri..."
+      },
+      {
+        "tehnologie": "PHP",
+        "dovada": "header x-powered-by: php/8.1.34"
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: .../> <link rel='stylesheet' id='fontawesome-css' href='https://www.fluxar.com.ar/wp-content/..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...nk rel='dns-prefetch' href='//fonts.googleapis.com' /> <link rel=\"alternate\" type=\"applica..."
+      }
+    ]
+  },
+  {
+    "domeniu": "redpants.jp",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "bata.edu.hu",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...ss' href='https://bata.edu.hu/wp-content/plugins/album-and-image-gallery-plus-lightbox/ass..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...1' media='all' /> <script id=\"jquery-core-js\" src=\"https://bata.edu.hu/wp-includes/js/jque..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://bata.edu.hu/wp-includes/js/j..."
+      },
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx"
+      }
+    ]
+  },
+  {
+    "domeniu": "3-energie-klaas.de",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "labdemo.com",
+    "tehnologii": [
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ....css\"></noscript> <script id=\"jquery-core-js\" src=\"https://labdemo.com/wp/wp-includes/js/j..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...\"></script> <script defer id=\"jquery-migrate-js\" src=\"https://labdemo.com/wp/wp-includes/j..."
+      },
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx"
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...el=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://f..."
+      }
+    ]
+  },
+  {
+    "domeniu": "1ststopsupply.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "celiabedilia.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx microsoft-httpapi/2.0"
+      }
+    ]
+  },
+  {
+    "domeniu": "davidloeppke.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...script async src=\"https://www.googletagmanager.com/gtag/js?id=ua-43807950-1\"></script>   <..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...el=\"preconnect\" href=\"https://fonts.googleapis.com\"> <link rel=\"preconnect\" href=\"https://..."
+      }
+    ]
+  },
+  {
+    "domeniu": "wrinkle-pei.cz",
+    "tehnologii": [
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx"
+      }
+    ]
+  },
+  {
+    "domeniu": "koniczynka.info.pl",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...ttps://www.koniczynka.info.pl/wp-content/uploads/2021/02/partnerzy1.jpg\" /> \t<meta name=\"t..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...czynka.info.pl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1\" id=\"jquery-core-js\"></script..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...info.pl/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1\" id=\"jquery-migrate-js\"></sc..."
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...> \t\t\t<script src=\"https://kit.fontawesome.com/d4d60a8d93.js\" crossorigin=\"anonymous\"></scr..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...-inline\">/* original: https://fonts.googleapis.com/css?family=noto+sans:100,100italic,200,..."
+      }
+    ]
+  },
+  {
+    "domeniu": "footasylum.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "2agateway.com",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...,\"url\":\"https://2agateway.com/wp-content/uploads/2023/01/2a-gateway-logo.svg\",\"contenturl\"..."
+      },
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "ledestjernenstu.dk",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...t=\"https://ledestjernenstu.dk/wp-content/uploads/2025/07/skaermbillede-2024-09-09-kl.-15.5..."
+      },
+      {
+        "tehnologie": "Google Tag Manager",
+        "dovada": "html: ...sync=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentnode.insertbef..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...s' media='all' /> <script id=\"jquery-core-js\" src=\"https://ledestjernenstu.dk/wp-includes/..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://ledestjernenstu.dk/wp-includ..."
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: .../> <link rel='stylesheet' id='fontawesome-css' href='//ledestjernenstu.dk/wp-content/cache..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...nk rel='dns-prefetch' href='//fonts.googleapis.com' /> <link rel='dns-prefetch' href='//ww..."
+      }
+    ]
+  },
+  {
+    "domeniu": "1stlocksheathscouts.org.uk",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "abbikadabbisbakingco.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "herbalwise.ie",
+    "tehnologii": [
+      {
+        "tehnologie": "Shopify",
+        "dovada": "html: ...el=\"preconnect\" href=\"https://cdn.shopify.com\" crossorigin>   <meta name=\"description\" con..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...function(content) {       var jquery = null;        if (window.jquery) {         jquery = ..."
+      },
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "deepseass.com",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...:\"http:\\/\\/www.deepseass.com\\/wp-content\\/uploads\\/2017\\/02\\/logo-d3s-v1.0-16.01.2016.png\"..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...9' media='all' /> <script id=\"jquery-core-js\" src=\"https://www.deepseass.com/wp-includes/j..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://www.deepseass.com/wp-include..."
+      },
+      {
+        "tehnologie": "PHP",
+        "dovada": "header x-powered-by: php/8.2"
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ...='siteorigin-widget-icon-font-fontawesome-css' href='https://www.deepseass.com/wp-content/..."
+      }
+    ]
+  },
+  {
+    "domeniu": "aardvarkelectriccorp.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "needaphysio.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...el=\"preconnect\" href=\"https://fonts.googleapis.com\"> <link rel=\"preconnect\" href=\"https://..."
+      }
+    ]
+  },
+  {
+    "domeniu": "thomasrosenbaum.com",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "100wwcstlw.org",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "shapirolawfirm.com",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...ef='http://shapirolawfirm.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ve..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...irolawfirm.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0' id='jquery-core-js'></script..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...irm.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js'></sc..."
+      },
+      {
+        "tehnologie": "PHP",
+        "dovada": "header x-powered-by: php/7.3.33"
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: .../> <link rel='stylesheet' id='fontawesome-css' href='http://shapirolawfirm.com/wp-content/..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...nk rel='dns-prefetch' href='//fonts.googleapis.com' /> <link rel=\"alternate\" type=\"applica..."
+      }
+    ]
+  },
+  {
+    "domeniu": "joseph-herber.business.site",
+    "tehnologii": []
+  },
+  {
+    "domeniu": "arol.cl",
+    "tehnologii": [
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx"
+      }
+    ]
+  },
+  {
+    "domeniu": "sindacatobadanti.it",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...tps://www.sindacatobadanti.it/wp-content/uploads/2023/02/cropped-loghetto-32x32.png\" sizes..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...t/plugins/maintenance/load/js/jquery.backstretch.min.js\"></script><![endif]--><link rel=\"s..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://www.sindacatobadanti.it/wp-i..."
+      }
+    ]
+  },
+  {
+    "domeniu": "1stclairavewest.com",
+    "tehnologii": [
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      }
+    ]
+  },
+  {
+    "domeniu": "lighthouseprc.org",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...https://lighthouseprc.org/cms/wp-content/uploads/2018/12/lprc_favicon.png\">             <l..."
+      },
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ... data-rocket-src=\"https://www.googletagmanager.com/gtag/js?id=ua-100992585-1\"></script> <s..."
+      },
+      {
+        "tehnologie": "Google Tag Manager",
+        "dovada": "html: ...sync=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentnode.insertbef..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...t.startswith(\"load.\")?\"rocket-jquery-load\":t).join(\" \")}function o(o){function s(e){const ..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...ext/rocketlazyloadscript\" id=\"jquery-migrate-js\" data-rocket-src=\"https://lighthouseprc.or..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...el=\"stylesheet\" href=\"https://fonts.googleapis.com/css?family=raleway%3a400%2c600%2c700%7c..."
+      }
+    ]
+  },
+  {
+    "domeniu": "5rcircleprocess.weebly.com",
+    "tehnologii": [
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js'></script>  <script type=\"text/ja..."
+      },
+      {
+        "tehnologie": "Cloudflare",
+        "dovada": "header server: cloudflare"
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...-theme-css\" />  <link href='//fonts.googleapis.com/css?family=quattrocento:400,700&subset=..."
+      }
+    ]
+  },
+  {
+    "domeniu": "unitedveterinaryservice.com",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...//unitedveterinaryservice.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ve..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: .../> <link rel='stylesheet' id='jquery-ui-smoothness-css' href='https://unitedveterinaryserv..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://unitedveterinaryservice.com/..."
+      },
+      {
+        "tehnologie": "PHP",
+        "dovada": "header x-powered-by: php/8.3.37"
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...nk rel='dns-prefetch' href='//fonts.googleapis.com' /> <link rel=\"alternate\" type=\"applica..."
+      }
+    ]
+  },
+  {
+    "domeniu": "construccionesyatecnicas.com",
+    "tehnologii": [
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...ext/javascript\" src=\"/lib/sys/jquery.min.js\"></script> <script type=\"text/javascript\" src=..."
+      },
+      {
+        "tehnologie": "Nginx",
+        "dovada": "header server: nginx"
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...g.jpg\" />  <link href=\"http://fonts.googleapis.com/css?family=asap|benchnine:400,800\" rel=..."
+      }
+    ]
+  },
+  {
+    "domeniu": "joburgheritage.org.za",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...https://joburgheritage.org.za/wp-content/themes/astra/assets/css/minified/frontend.min.css..."
+      },
+      {
+        "tehnologie": "Google Analytics",
+        "dovada": "html: ...e_gtagjs-js\" src=\"https://www.googletagmanager.com/gtag/js?id=gt-tng7dspn\" async></script>..."
+      },
+      {
+        "tehnologie": "jQuery",
+        "dovada": "html: ...on.</p> </script> <script id=\"jquery-core-js\" src=\"https://joburgheritage.org.za/wp-includ..."
+      },
+      {
+        "tehnologie": "jQuery Migrate",
+        "dovada": "html: ...=3.7.1\"></script> <script id=\"jquery-migrate-js\" src=\"https://joburgheritage.org.za/wp-inc..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...nk rel='dns-prefetch' href='//fonts.googleapis.com' /> <link href='https://fonts.googleapi..."
+      }
+    ]
+  },
+  {
+    "domeniu": "bfnelson.it",
+    "tehnologii": [
+      {
+        "tehnologie": "WordPress",
+        "dovada": "html: ...et' href='https://bfnelson.it/wp-content/plugins/breakdance/plugin/themeless/normalize.min..."
+      },
+      {
+        "tehnologie": "PHP",
+        "dovada": "header x-powered-by: php/8.4.28"
+      },
+      {
+        "tehnologie": "Font Awesome",
+        "dovada": "html: ... font awesome free 5.15.1 by @fontawesome - https://fontawesome.com license - https://font..."
+      },
+      {
+        "tehnologie": "Google Fonts",
+        "dovada": "html: ...el=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=manrope:wght@200..800&famil..."
+      }
+    ]
+  },
+  {
+    "domeniu": "rivithead.com",
+    "tehnologii": []
+  }
+]

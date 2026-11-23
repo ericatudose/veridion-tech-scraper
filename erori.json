@@ -1,0 +1,74 @@
+[
+  {
+    "domeniu": "jcmobilecigars.com",
+    "eroare": "HTTPConnectionPool(host='jcmobilecigars.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='jcmobilecigars.com', port=80): Failed to resolve 'jcmobilecigars.com' ([Errno -2] Name or service not known)\"))"
+  },
+  {
+    "domeniu": "coenzwezerijnen.nu",
+    "eroare": "HTTPConnectionPool(host='coenzwezerijnen.nu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPConnection(host='coenzwezerijnen.nu', port=80): Failed to establish a new connection: [Errno 111] Connection refused\"))"
+  },
+  {
+    "domeniu": "ferienwohnung-kastell.de",
+    "eroare": "HTTPConnectionPool(host='ferienwohnung-kastell.de', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='ferienwohnung-kastell.de', port=80): Failed to resolve 'ferienwohnung-kastell.de' ([Errno -2] Name or service not known)\"))"
+  },
+  {
+    "domeniu": "11853prospecthill.com",
+    "eroare": "HTTPConnectionPool(host='11853prospecthill.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='11853prospecthill.com', port=80): Failed to resolve '11853prospecthill.com' ([Errno -2] Name or service not known)\"))"
+  },
+  {
+    "domeniu": "itsolutions24.pl",
+    "eroare": "HTTPConnectionPool(host='itsolutions24.pl', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='itsolutions24.pl', port=80) at 0x768267f3cf30>, 'Connection to itsolutions24.pl timed out. (connect timeout=10)'))"
+  },
+  {
+    "domeniu": "laplumedelisibilite.fr",
+    "eroare": "HTTPSConnectionPool(host='www.laplumedelisibilite.fr', port=443): Read timed out. (read timeout=10)"
+  },
+  {
+    "domeniu": "everhartsoutdoor.com",
+    "eroare": "HTTPSConnectionPool(host='www.everhartsoutdoor.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.everhartsoutdoor.com'. (_ssl.c:1081)\")))"
+  },
+  {
+    "domeniu": "costa-coffee.be",
+    "eroare": "HTTPConnectionPool(host='costa-coffee.be', port=80): Read timed out. (read timeout=10)"
+  },
+  {
+    "domeniu": "startravelcompany.com",
+    "eroare": "HTTPConnectionPool(host='startravelcompany.com', port=80): Read timed out. (read timeout=10)"
+  },
+  {
+    "domeniu": "jackwills.com",
+    "eroare": "HTTPConnectionPool(host='jackwills.com', port=80): Read timed out. (read timeout=10)"
+  },
+  {
+    "domeniu": "nevsproductions.com",
+    "eroare": "HTTPSConnectionPool(host='www.nevsproductions.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nevsproductions.com'. (_ssl.c:1081)\")))"
+  },
+  {
+    "domeniu": "maiquotes.net",
+    "eroare": "HTTPSConnectionPool(host='maiquotes.net', port=443): Max retries exceeded with url: /site/index.php (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'maiquotes.net'. (_ssl.c:1081)\")))"
+  },
+  {
+    "domeniu": "wglchurch.com",
+    "eroare": "HTTPConnectionPool(host='wglchurch.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='wglchurch.com', port=80): Failed to resolve 'wglchurch.com' ([Errno -2] Name or service not known)\"))"
+  },
+  {
+    "domeniu": "nwmotorinn.com",
+    "eroare": "HTTPConnectionPool(host='nwmotorinn.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='nwmotorinn.com', port=80): Failed to resolve 'nwmotorinn.com' ([Errno -2] Name or service not known)\"))"
+  },
+  {
+    "domeniu": "littlerockafamily.de",
+    "eroare": "HTTPConnectionPool(host='littlerockafamily.de', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='littlerockafamily.de', port=80): Failed to resolve 'littlerockafamily.de' ([Errno -2] Name or service not known)\"))"
+  },
+  {
+    "domeniu": "powercleaning.services",
+    "eroare": "HTTPConnectionPool(host='powercleaning.services', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='powercleaning.services', port=80) at 0x768267e4caf0>, 'Connection to powercleaning.services timed out. (connect timeout=10)'))"
+  },
+  {
+    "domeniu": "verticalcommunitychurch.com",
+    "eroare": "HTTPConnectionPool(host='verticalcommunitychurch.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='verticalcommunitychurch.com', port=80): Failed to resolve 'verticalcommunitychurch.com' ([Errno -2] Name or service not known)\"))"
+  },
+  {
+    "domeniu": "tamcconstruction.net",
+    "eroare": "HTTPConnectionPool(host='tamcconstruction.net', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='tamcconstruction.net', port=80): Failed to resolve 'tamcconstruction.net' ([Errno -2] Name or service not known)\"))"
+  }
+]
