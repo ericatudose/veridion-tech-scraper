@@ -37,6 +37,9 @@ for nume, t in wapp.items():
     reguli_wapp.append(r)
 
 print("Reguli Wappalyzer incarcate:", len(reguli_wapp))
+# Reguli care dau rezultate false (verificate manual)
+excluse = {"WebsiteBuilder"}   # potrivește "Wix.com Website Builder"
+reguli_wapp = [r for r in reguli_wapp if r["nume"] not in excluse]
 
 # ---------- 3. Detectia ----------
 df = pd.read_parquet("domains.parquet")
@@ -55,8 +58,8 @@ for domeniu in df["root_domain"]:
     cookies = {k.lower(): v for k, v in info["cookies"].items()}
     soup = BeautifulSoup(html, "html.parser")
     scripturi = [s["src"] for s in soup.find_all("script", src=True)]
-    meta = {m["name"].lower(): m.get("content", "")
-            for m in soup.find_all("meta") if m.get("name")}
+    meta = {(m.get("name") or m.get("property")).lower(): m.get("content", "")
+                for m in soup.find_all("meta") if m.get("name") or m.get("property")}
 
     gasite = {}
     def adauga(nume, dovada):
