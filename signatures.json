@@ -30,5 +30,6 @@
   {"nume": "Webflow", "unde": "html", "caut": "website-files.com"},
   {"nume": "Amazon CloudFront", "unde": "html", "caut": "cloudfront.net"},
   {"nume": "cdnjs", "unde": "html", "caut": "cdnjs.cloudflare.com"},
-  {"nume": "html5shiv", "unde": "html", "caut": "html5shiv"}
+  {"nume": "html5shiv", "unde": "html", "caut": "html5shiv"},
+  {"nume": "Akamai", "unde": "header", "header": "server", "caut": "akamaighost"}
 ]
